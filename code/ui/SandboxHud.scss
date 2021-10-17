@@ -12,6 +12,19 @@ Health
 	align-items: center;
 }
 
+Armor {
+	position: absolute;
+	background-color: rgba( black, 0.5 );
+	right: 100px;
+	bottom: 48px;
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+	height: 120px;
+	padding: 0 20px;
+	align-items: center;
+}
+
 CurrentTool
 {
 	position: absolute;
